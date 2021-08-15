@@ -26,7 +26,7 @@ Tested on: GNU Fortran (GCC) 4.8.
  
 #### Behavioral Patterns
 - [ ] Chain of Responsibility
-- [ ] Command
+- [X] Command
 - [ ] Interpreter
 - [ ] Iterator
 - [ ] Mediator
